@@ -53,6 +53,4 @@ predict_sentiment("I love this movie")
 ---
 
 ## Future Work
-
-* Try deep learning models (LSTM, BERT)
 * Build a web app (Streamlit)
